@@ -4,7 +4,7 @@
 
 ## Hacktoberfest 2020 🎉
 
-We are celebrating **Hacktoberfest 2020!** The Knowledge Base is a perfect project to contribute to if you are not so confident with your programming skills. All you need is to be an excited _(tech)_ writer who wants to progress **open-source** projects and pass on their knowledge to the **DX community** around the world!
+We are celebrating **Hacktoberfest 2020!** The Knowledge Base is a perfect project to contribute to if you are not so confident with your programming skills. All you need is to be an excited _(tech)_ writer who wants to progress **open-source** projects and pass on their knowledge to the **DX community** around the world!.
 
 During the event, we will be periodically updating the **"Leaderboard of Contributors"** - table with the most active contributors. The Leaderboard will be posted to our [Twitter](https://twitter.com/DX_Heroes). By the end of the event, **Top 3 contributors** will receive a **permanent Badge of Honor** with links to their socials/websites on this repository. On top of that, **the contributor with the most merged pull requests** will receive **exclusive DX Heroes merchandise!**
 
